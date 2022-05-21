@@ -1426,10 +1426,10 @@ static const unsigned short twb64_141_christmas_gold[] = {
 	PACK15_4(0xC4B56C, 0x958A52, 0x5C5532, 0x221F13)
 };
 
-static const unsigned short twb64_142_pepsi_blue[] = {
-	PACK15_4(0x005CB4, 0x004689, 0x002B54, 0x00101F),
-	PACK15_4(0x005CB4, 0x004689, 0x002B54, 0x00101F),
-	PACK15_4(0x005CB4, 0x004689, 0x002B54, 0x00101F)
+static const unsigned short twb64_142_pepsi_cola_blue[] = {
+	PACK15_4(0x0065C3, 0x004D95, 0x002F5B, 0x001122),
+	PACK15_4(0x0065C3, 0x004D95, 0x002F5B, 0x001122),
+	PACK15_4(0x0065C3, 0x004D95, 0x002F5B, 0x001122)
 };
 
 static const unsigned short twb64_143_bubblun_green[] = {
